@@ -6,20 +6,23 @@ body{
 	font-family: 'Merriweather', serif;
 }
 h1{
-	width:50%;
 	margin : 0 auto 0 auto;
 	font-family: 'Berkshire Swash', cursive;
-	color:#66BFBF;
+	color:#233e8b;
+	font-size: 65px;
 }
 h2{
 	font-family: 'Montserrat', sans-serif;
-	color:#66BFBF;
+	color:#233e8b;
 	margin : 0 auto 20px auto;
+	font-size: 50px;
+	font-weight:bold;
 }
 h3{
 	font-family: 'Montserrat', sans-serif;
-	color:#66BFBF;
+	color:#233e8b;
 	margin : 0 auto 0 auto;
+	font-size: 40px;
 }
 
 hr{
@@ -82,11 +85,11 @@ width   :  5%
 }
 p{
 	margin:0 auto 0 auto;
-	font-size : 13px;
+	font-size : 22px;
 }
 .skill-row
 {
-	width : 50%;
+	width : 80%;
 	margin : 50px auto 100px auto;
 	line-height:2;
 	text-align: left;
